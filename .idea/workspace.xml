@@ -35,11 +35,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1248c53d-b03f-4813-84a7-784dc8d6a603" name="FIX Readme changed" comment="FIX Readme changed">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/FIX_Readme_changed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="1248c53d-b03f-4813-84a7-784dc8d6a603" name="FIX Readme changed" comment="FIX Readme changed" />
     <list id="e1d87b93-9ec7-4e41-8599-4096d42ad911" name="Default Changelist" comment="FIX Readme changed" />
     <list id="c78460b8-1531-4bdf-a666-c9a5bbaa384b" name="FIX Readme changed 2" comment="FIX Readme changed 2" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +57,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1h9CkZWqFQ11dEQGfApCguZMzNC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -170,10 +165,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="389" y="177" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599416300993" />
-    <state x="614" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599416885992">
+    <state x="614" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599417233069">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="614" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1599416885992" />
+    <state x="614" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1599417233069" />
     <state x="550" y="175" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1599415050228">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
