@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bitbucket-https" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:gitlab-https" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1248c53d-b03f-4813-84a7-784dc8d6a603" name="FIX Readme changed" comment="FIX Readme changed">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/FIX_Readme_changed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <list id="e1d87b93-9ec7-4e41-8599-4096d42ad911" name="Default Changelist" comment="FIX Readme changed" />
+    <list id="c78460b8-1531-4bdf-a666-c9a5bbaa384b" name="FIX Readme changed 2" comment="FIX Readme changed 2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fix" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1h9CkZWqFQ11dEQGfApCguZMzNC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1d87b93-9ec7-4e41-8599-4096d42ad911" name="Default Changelist" comment="" />
+      <changelist id="c78460b8-1531-4bdf-a666-c9a5bbaa384b" name="FIX Readme changed 2" comment="FIX Readme changed 2" />
+      <changelist id="1248c53d-b03f-4813-84a7-784dc8d6a603" name="FIX Readme changed" comment="FIX Readme changed" />
+      <created>1599414065456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599414065456</updated>
+    </task>
+    <task id="LOCAL-00001" summary="FIX Readme changed">
+      <created>1599414595065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599414595065</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FIX Readme changed">
+      <created>1599415155817</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599415155817</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FIX Readme changed">
+      <created>1599415350773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599415350773</updated>
+    </task>
+    <task id="LOCAL-00004" summary="FIX Readme changed">
+      <created>1599415716696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599415716696</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FIX Readme changed">
+      <created>1599416291070</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599416291070</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FIX Readme changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX Readme changed" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="61" key="CommitChangelistDialog2" timestamp="1599415776409">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="442" y="61" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1599415776409" />
+    <state x="197" y="147" width="1200" height="620" key="DiffContextDialog" timestamp="1599416639677">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="197" y="147" width="1200" height="620" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1599416639677" />
+    <state x="644" y="370" key="VCS.ChangelistChooser" timestamp="1599415789622">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="644" y="370" key="VCS.ChangelistChooser/0.0.1600.860@0.0.1600.860" timestamp="1599415789622" />
+    <state x="389" y="177" key="Vcs.Push.Dialog.v2" timestamp="1599416300993">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="389" y="177" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599416300993" />
+    <state x="614" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599416885992">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="614" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1599416885992" />
+    <state x="550" y="175" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1599415050228">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="550" y="175" key="git4idea.branch.GitBranchIsNotFullyMergedDialog/0.0.1600.860@0.0.1600.860" timestamp="1599415050228" />
+  </component>
+</project>
