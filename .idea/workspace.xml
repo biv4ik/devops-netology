@@ -35,7 +35,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1248c53d-b03f-4813-84a7-784dc8d6a603" name="FIX Readme changed" comment="FIX Readme changed" />
+    <list default="true" id="1248c53d-b03f-4813-84a7-784dc8d6a603" name="FIX Readme changed" comment="FIX Readme changed">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/devops-netology.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="e1d87b93-9ec7-4e41-8599-4096d42ad911" name="Default Changelist" comment="FIX Readme changed" />
     <list id="c78460b8-1531-4bdf-a666-c9a5bbaa384b" name="FIX Readme changed 2" comment="FIX Readme changed 2" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +60,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="fix" />
+        <entry key="$PROJECT_DIR$" value="49ce6ede6a5e1e14da9bdfd6bcaa657cef66c642" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599416291070</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="FIX Readme changed">
+      <created>1599417571096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599417571096</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FIX Readme changed 123.txt add">
+      <created>1599417754667</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599417754667</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,10 +164,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FIX Readme changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIX Readme changed" />
+    <MESSAGE value="FIX Readme changed 123.txt add" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX Readme changed 123.txt add" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -161,10 +185,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="644" y="370" key="VCS.ChangelistChooser/0.0.1600.860@0.0.1600.860" timestamp="1599415789622" />
-    <state x="389" y="177" key="Vcs.Push.Dialog.v2" timestamp="1599416300993">
+    <state x="389" y="177" key="Vcs.Push.Dialog.v2" timestamp="1599417757561">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="389" y="177" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599416300993" />
+    <state x="389" y="177" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599417757561" />
     <state x="614" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599417233069">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
